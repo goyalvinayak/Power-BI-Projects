@@ -10,4 +10,6 @@ Ratio of Male and Female Employees
 Solution-
 ```
 Ratio = CALCULATE(COUNTROWS(data), data[Gender] = "Male")/ CALCULATE(COUNTROWS(data), data[Gender]= "Female")
+
+hello vinayak
 ```
